@@ -1,0 +1,12 @@
+E:\Heroes&Heroinas\Act1-EjercitoMilitar\Act1-EjercitoMilitar\bin\Debug\net6.0\Act1-EjercitoMilitar.deps.json
+E:\Heroes&Heroinas\Act1-EjercitoMilitar\Act1-EjercitoMilitar\bin\Debug\net6.0\Act1-EjercitoMilitar.dll
+E:\Heroes&Heroinas\Act1-EjercitoMilitar\Act1-EjercitoMilitar\bin\Debug\net6.0\Act1-EjercitoMilitar.pdb
+E:\Heroes&Heroinas\Act1-EjercitoMilitar\Act1-EjercitoMilitar\obj\Debug\net6.0\Act1-EjercitoMilitar.csproj.AssemblyReference.cache
+E:\Heroes&Heroinas\Act1-EjercitoMilitar\Act1-EjercitoMilitar\obj\Debug\net6.0\Act1-EjercitoMilitar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Heroes&Heroinas\Act1-EjercitoMilitar\Act1-EjercitoMilitar\obj\Debug\net6.0\Act1-EjercitoMilitar.AssemblyInfoInputs.cache
+E:\Heroes&Heroinas\Act1-EjercitoMilitar\Act1-EjercitoMilitar\obj\Debug\net6.0\Act1-EjercitoMilitar.AssemblyInfo.cs
+E:\Heroes&Heroinas\Act1-EjercitoMilitar\Act1-EjercitoMilitar\obj\Debug\net6.0\Act1-EjercitoMilitar.csproj.CoreCompileInputs.cache
+E:\Heroes&Heroinas\Act1-EjercitoMilitar\Act1-EjercitoMilitar\obj\Debug\net6.0\Act1-EjercitoMilitar.dll
+E:\Heroes&Heroinas\Act1-EjercitoMilitar\Act1-EjercitoMilitar\obj\Debug\net6.0\refint\Act1-EjercitoMilitar.dll
+E:\Heroes&Heroinas\Act1-EjercitoMilitar\Act1-EjercitoMilitar\obj\Debug\net6.0\Act1-EjercitoMilitar.pdb
+E:\Heroes&Heroinas\Act1-EjercitoMilitar\Act1-EjercitoMilitar\obj\Debug\net6.0\ref\Act1-EjercitoMilitar.dll

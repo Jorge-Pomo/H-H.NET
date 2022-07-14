@@ -1,0 +1,890 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.2.0.0",
+        "fileVersion": "4.2.0-4.22220.5 (432d17a8)",
+        "semanticVersion": "4.2.0",
+        "language": "es-ES"
+      },
+      "results": [
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'blindaje' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Artilleria.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 16,
+                  "endLine": 14,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'coste' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Artilleria.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 16,
+                  "endLine": 15,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'movilidad' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Artilleria.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 16,
+                  "endLine": 16,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'potencia' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Artilleria.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 16,
+                  "endLine": 17,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field 'blindaje' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Artilleria.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 16,
+                  "endLine": 14,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field 'coste' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Artilleria.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 16,
+                  "endLine": 15,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field 'movilidad' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Artilleria.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 16,
+                  "endLine": 16,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field 'potencia' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Artilleria.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 16,
+                  "endLine": 17,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'Blindaje' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 16,
+                  "endLine": 11,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'Coste' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 16,
+                  "endLine": 12,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'Movilidad' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 16,
+                  "endLine": 13,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'Potencia' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 16,
+                  "endLine": 14,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field 'Blindaje' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 16,
+                  "endLine": 11,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field 'Coste' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 16,
+                  "endLine": 12,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field 'Movilidad' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 16,
+                  "endLine": 13,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field 'Potencia' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 16,
+                  "endLine": 14,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'Blindaje' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Infanteria.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 16,
+                  "endLine": 11,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'Coste' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Infanteria.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 16,
+                  "endLine": 12,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'Movilidad' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Infanteria.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 16,
+                  "endLine": 13,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'Potencia' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Infanteria.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 16,
+                  "endLine": 14,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'BlindajeMX_7899' to match pascal case naming rules, consider using 'BlindajeMx7899'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria/MX-7899/BlindajeMX-7899.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 20,
+                  "endLine": 10,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'PotenciaTAXIN_66' to match pascal case naming rules, consider using 'PotenciaTaxin66'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria/TAXIN-66/PotenciaTAXIN-66.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 20,
+                  "endLine": 10,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'BlindajeTAXIN_66' to match pascal case naming rules, consider using 'BlindajeTaxin66'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria/TAXIN-66/BlindajeTAXIN-66.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 20,
+                  "endLine": 10,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field 'Blindaje' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Infanteria.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 16,
+                  "endLine": 11,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field 'Coste' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Infanteria.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 16,
+                  "endLine": 12,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field 'Movilidad' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Infanteria.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 16,
+                  "endLine": 13,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field 'Potencia' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Infanteria.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 16,
+                  "endLine": 14,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'PrecioTAXIN_66' to match pascal case naming rules, consider using 'PrecioTaxin66'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria/TAXIN-66/PrecioTAXIN-66.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 20,
+                  "endLine": 10,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'PotenciMX_7899' to match pascal case naming rules, consider using 'PotenciMx7899'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria/MX-7899/PotenciMX-7899.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 20,
+                  "endLine": 11,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'PrecioMX_7899' to match pascal case naming rules, consider using 'PrecioMx7899'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria/MX-7899/PrecioMX-7899.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 20,
+                  "endLine": 10,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'VelocidadTAXIN_66' to match pascal case naming rules, consider using 'VelocidadTaxin66'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria/TAXIN-66/VelocidadTAXIN-66.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 20,
+                  "endLine": 10,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'BlindajeSombras_VB98' to match pascal case naming rules, consider using 'BlindajeSombrasVb98'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria/Sombras-VB98/BlindajeSombras_VB98.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 20,
+                  "endLine": 10,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'PotenciaSombras_VB98' to match pascal case naming rules, consider using 'PotenciaSombrasVb98'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria/Sombras-VB98/PotenciaSombras-VB98.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 20,
+                  "endLine": 10,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'PrecioSombras_VB98' to match pascal case naming rules, consider using 'PrecioSombrasVb98'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria/Sombras-VB98/PrecioSombras-VB98.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 20,
+                  "endLine": 10,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'VelocidadSombras_VB98' to match pascal case naming rules, consider using 'VelocidadSombrasVb98'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria/Sombras-VB98/VelocidadSombras-VB98.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 20,
+                  "endLine": 10,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'VelocidadMX_7899' to match pascal case naming rules, consider using 'VelocidadMx7899'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/DIVISIONES/Caballeria/MX-7899/VelocidadMX-7899.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 20,
+                  "endLine": 10,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'BuilderTAXIN_66' to match pascal case naming rules, consider using 'BuilderTaxin66'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/BUILDER/Caballeria/BuilderTAXIN-66.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 20,
+                  "endLine": 11,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'BuilderSombras_VB98' to match pascal case naming rules, consider using 'BuilderSombrasVb98'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/BUILDER/Caballeria/BuilderSombras-VB98.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 20,
+                  "endLine": 12,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'BuilderMX_7899' to match pascal case naming rules, consider using 'BuilderMx7899'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/Heroes&Heroinas/Act1-EjercitoMilitar/Act1-EjercitoMilitar/BUILDER/Caballeria/BuilderMX-7899.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 20,
+                  "endLine": 11,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently. This rule checks whether or not type names are using PascalCase. To reduce noise, two consecutive upper case characters are allowed unless they form the whole type name. So, MyXClass is compliant, but XC on its own is not.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S2933": {
+          "id": "S2933",
+          "shortDescription": "Fields that are only assigned in the constructor should be \"readonly\"",
+          "fullDescription": "readonly fields can only be assigned in a class constructor. If a class has a field that’s not marked readonly but is only set in the constructor, it could cause confusion about the field’s intended use. To avoid confusion, such fields should be marked readonly to make their intended use explicit, and to prevent future maintainers from inadvertently changing their use.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2933",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S4487": {
+          "id": "S4487",
+          "shortDescription": "Unread \"private\" fields should be removed",
+          "fullDescription": "Private fields only used to store values without reading them later is a case of dead store. So changing the value of such field is useless and most probably indicates a serious error in the code.",
+          "defaultLevel": "note",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4487",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope",
+              "Unnecessary"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

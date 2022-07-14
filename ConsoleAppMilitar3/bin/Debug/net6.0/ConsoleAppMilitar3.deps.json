@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleAppMilitar3/1.0.0": {
+        "dependencies": {
+          "Act1-EjercitoMilitar": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppMilitar3.dll": {}
+        }
+      },
+      "Act1-EjercitoMilitar/1.0.0": {
+        "runtime": {
+          "Act1-EjercitoMilitar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppMilitar3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Act1-EjercitoMilitar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
